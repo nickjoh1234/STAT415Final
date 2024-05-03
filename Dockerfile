@@ -20,7 +20,8 @@ RUN pip install \
 	pandoc==2.3 \
 	torch==2.3.0 \
 	torchvision==0.18.0 \
-	tqdm==4.66.2
+	tqdm==4.66.2 \
+	statsmodels==0.13.1
 	
 
 
